@@ -1,11 +1,6 @@
 import 'dart:ui';
 import 'dart:typed_data';
 import 'package:flutter_cube/flutter_cube.dart';
-import 'package:vector_math/vector_math_64.dart';
-import 'object.dart';
-import 'camera.dart';
-import 'mesh.dart';
-import 'material.dart';
 import 'light.dart';
 
 typedef ObjectCreatedCallback = void Function(Object object);

@@ -1,7 +1,7 @@
-import 'dart:ui';
 import 'package:vector_math/vector_math_64.dart';
-import 'scene.dart';
+
 import 'mesh.dart';
+import 'scene.dart';
 
 class Object {
   Object({
